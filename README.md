@@ -46,7 +46,7 @@ pip install tensorflow scikit-learn pandas numpy
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/EmployeeAttritionPredictor.git
+   https://github.com/Geet-Pawade/Employee-Attrition-Predictor.git
    ```
 
 2. **Navigate to the project directory:**
