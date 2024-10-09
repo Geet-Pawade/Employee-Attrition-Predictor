@@ -3,7 +3,7 @@
 
 # Employee Attrition Predictor
 
-### Project Duration: May 2024 – Jun 2024
+### Project Duration: May 2024 – Jun 2024 
 
 ## Project Overview
 
